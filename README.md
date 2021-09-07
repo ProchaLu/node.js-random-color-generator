@@ -16,5 +16,6 @@ $ node index.js blue light
 
 ```bash
 $ node index.js ask
-/ask for hue and luminosity
+/ask hue and luminosity
+/then gives color with hue and luminosity
 ```
