@@ -10,6 +10,11 @@ $ node index.js
 users can also select the color
 
 ```bash
-$ node index.js blue
-/color blue
+$ node index.js blue light
+/random light blue color
+```
+
+```bash
+$ node index.js ask
+/ask for hue and luminosity
 ```
