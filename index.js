@@ -1,7 +1,6 @@
 const createColor = require('my-colors'); // import the script my-colors
 const randomColor = require('randomcolor'); // import the script randomColor
 const prompt = require('prompt-sync')(); // import the script prompt-sync
-/* const chalk = require('chalk'); */ // import chalk but never used
 
 let hue = 'random';
 let luminosity = 'random';

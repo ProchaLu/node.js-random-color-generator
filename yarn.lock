@@ -409,10 +409,10 @@
     "@typescript-eslint/types" "4.31.0"
     eslint-visitor-keys "^2.0.0"
 
-"@upleveled/eslint-config-upleveled@1.15.2":
-  version "1.15.2"
-  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.15.2.tgz#a20d049a978370650678ef72fc91271fcf834c84"
-  integrity sha512-WsFzWoeC1VW5wv+3Nl+Z21YqxPlTC0hxFSl2phoWmgSkQcBmvMprSxTudwm2ogmQbRhJUtX78dKtW8ceRwiESA==
+"@upleveled/eslint-config-upleveled@1.15.4":
+  version "1.15.4"
+  resolved "https://registry.yarnpkg.com/@upleveled/eslint-config-upleveled/-/eslint-config-upleveled-1.15.4.tgz#b23651dac973a86f6661711afba315d21844060f"
+  integrity sha512-vYlT1UIbJbNzupzgnVF7V795F/eyeHdAPMNqALjqvU+/n7amVOFQh6bEBsFSDTSlc1iNTB05q6I0D09ihOlnvA==
 
 acorn-jsx@^5.3.1:
   version "5.3.2"
@@ -618,7 +618,7 @@ chalk@^2.0.0:
     escape-string-regexp "^1.0.5"
     supports-color "^5.3.0"
 
-chalk@^4.0.0, chalk@^4.1.2:
+chalk@^4.0.0:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
   integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
