@@ -2,13 +2,8 @@ const createColor = require('my-colors'); // import the script my-colors
 const randomColor = require('randomcolor'); // import the script randomColor
 const prompt = require('prompt-sync')(); // import the script prompt-sync
 
-let hue = 'random';
-let luminosity = 'random';
-
-// check userinput at position 2 and 3 for hue and luminosity
-
-hue = process.argv[2];
-luminosity = process.argv[3];
+let hue = process.argv[2] ? process.argv[2] : 'random';
+let luminosity = process.argv[3] ? process.argv[3] : 'random';
 
 // check if user imput on position 2 is ask
 
